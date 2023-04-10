@@ -1,0 +1,114 @@
+@media screen and (max-width:1000px) {
+   
+   
+   
+    nav{
+        height: 4vh;
+       display: flex;
+    flex-direction: column;
+    }
+   input{
+    width: 48vw;
+    height:4vh;
+    font-size: 4vw;
+    display: inline-block;
+   } 
+   button{
+    width:18vw;
+    height: 6vh;
+    font-size: 12vw;
+    display: inline-block;
+   }
+   select{
+    width: 12vw;
+    height: 6vh;
+    font-size: 12vw;
+    display: inline-block;
+   }
+   
+   ul{
+    padding: 6px;
+   }
+  
+   li a{
+    font-size: 12vw;
+   }
+   .container2{
+    display: inline-block;
+    width: 80vw;
+    align-items: center;
+    width: 100vw;
+  margin-left: 23px;
+   }
+
+
+ .lines{
+  width: 50vw;
+    align-items: center;
+    }
+   .card-item{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+    }
+   .my-2{
+    display: flex;
+  
+    justify-content: center;
+  } 
+  
+}
+
+
+@media screen and (max-width:1500px){
+   
+    *{
+        margin: 0;
+        padding: 0;
+    }
+ 
+    nav img{
+        width: 79px;
+    }
+
+    nav{
+        height: 17vh;
+       display: flex;
+    flex-direction: column;
+    }
+   input{
+    width: 44vw;
+    height:5vh;
+    font-size: 4vw;
+    display: inline-block;
+   } 
+   button{
+    width:17vw;
+    height: 6vh;
+    font-size: 4vw;
+    display: inline-block;
+   }
+   select{
+    width: 15vw;
+    height: 6vh;
+    font-size: 4vw;
+    display: inline-block;
+   }
+   
+   ul{
+    padding: 7px;
+   }
+   li a{
+    font-size: 4vw;
+   }
+  
+  
+}
+
+
+
+
+   
+   
+   
+   

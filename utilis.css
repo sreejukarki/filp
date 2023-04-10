@@ -1,0 +1,8 @@
+.text-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my-2{
+    margin: 25px 0px;
+}
